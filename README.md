@@ -1,6 +1,6 @@
 # MobileApp-Lost-Found-SocialMedia
 
-Mapua: iLostiFind is a mobile application that helps mapuan students find lost and found items. 
+Mapua: iLostiFind is a mobile application that helps mapuan students find lost and found items using Google Firebase for backend.
 
 
 Functions:
